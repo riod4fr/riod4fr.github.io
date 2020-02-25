@@ -1,0 +1,60 @@
+# Basic Settings
+title: dario.pw • Protect personal data • Grow your business
+description: We setup your data privacy and compliance initiatives, building private data security into the fabric of your organization, increasing trust and opportunities.
+author: dario
+# Language format language_TERRITORY. Default is en_US
+lang: en_US
+# website logos, images & icons
+logo: img/chklst.png
+image: img/header.jpg
+# urls
+url: https://dario.pw
+english_url: https://dario.pw
+french_url: https://dario.site
+baseurl: ''
+resources_url: 'resources'
+services_url: 'services'
+
+# copyright text in footer
+copyright: dario.pw
+
+# email address
+email: contact@dario.pw
+email_username: contact@dario.pw
+# email address in privacy policy
+email_privacy: privacy@dario.pw
+
+# contact telephone number
+telephone_number:
+
+# search tracking id for dario.pw
+google_tracking_id: UA-98131817-4
+
+webmaster_verifications:
+  google: jKNeXGKZ4e1CsWLJx1vciAX-AIUBkpglQ_LG5jZfQKc
+  bing: AC24F3DF5CA3A5221FB7E01EF2D9AAC4
+  alexa:
+  yandex:
+  baidu:
+
+# Social/SEO
+twitter_username: darioS3C
+github_username:
+facebook_username:
+
+twitter:
+  username: darioS3C
+
+facebook:
+  app_id:
+  publisher:
+  admins:
+
+exclude: ["CNAME", "Gemfile", "Gemfile.lock", "NOTICE", "LICENSE", "README.md"]
+
+# gems
+gems:
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
