@@ -1,16 +1,16 @@
 # Basic Settings
-title: dario.pw • Protect personal data • Grow your business
-description: We setup your data privacy and compliance initiatives, building private data security into the fabric of your organization, increasing trust and opportunities.
+title: dario.pw • Sécurité • Vie Privée
+description: La sécurité est une exigence commerciale. La protection de la vie privée est un avantage concurrentiel. Protégez vos données et votre entreprise.
 author: dario
 # Language format language_TERRITORY. Default is en_US
-lang: en_US
+lang: fr_CA
 # website logos, images & icons
 logo: img/chklst.png
 image: img/header.jpg
 # urls
 url: https://dario.pw
 english_url: https://dario.pw
-french_url: https://dario.site
+french_url: https://dario.pw/fr
 baseurl: ''
 resources_url: 'resources'
 services_url: 'services'
@@ -56,7 +56,5 @@ exclude: ["CNAME", "Gemfile", "Gemfile.lock", "NOTICE", "LICENSE", "README.md"]
 gems:
   - jekyll-seo-tag
  
- gem "nokogiri", ">= 1.10.8"
-
 # Build settings
 markdown: kramdown
