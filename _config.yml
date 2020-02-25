@@ -55,6 +55,8 @@ exclude: ["CNAME", "Gemfile", "Gemfile.lock", "NOTICE", "LICENSE", "README.md"]
 # gems
 gems:
   - jekyll-seo-tag
+ 
+ gem "nokogiri", ">= 1.10.8"
 
 # Build settings
 markdown: kramdown
