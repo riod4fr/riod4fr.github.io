@@ -1,5 +1,5 @@
 # Basic Settings
-title: dario.pw • Protéger les données personnelles • Développer votre entreprise
+title: dario.com • Tirez parti de vos investissements en confidentialité • Développez votre entreprise
 description: Nous optimisons vos programmes de confidentialité et de conformité des données, augmentant la confiance en votre entreprise et les opportunités de croissances.
 author: dario
 # Language format language_TERRITORY. Default is en_US
@@ -8,30 +8,30 @@ lang: fr_CA
 logo: img/chklst.png
 image: img/header.jpg
 # urls
-url: https://dario.pw
-english_url: https://riod4.github.io/
-french_url: https://riod4fr.github.io/
-baseurl: ''
-resources_url: 'resources'
-services_url: 'services'
+url: "https://dario.com"
+english_url: https://dario.com/
+french_url: https://dario.com/fr
+baseurl: "/fr"
+# resources_url: 'resources'
+# services_url: 'services'
 
 # copyright text in footer
 copyright: dario.pw
 
 # email address
-email: contact@dario.pw
-email_username: contact@dario.pw
+email: contact@dario.com
+email_username: contact@dario.com
 # email address in privacy policy
-email_privacy: privacy@dario.pw
+email_privacy: privacy@dario.com
 
 # contact telephone number
 telephone_number:
 
-# search tracking id for dario.pw
-google_tracking_id: UA-98131817-4
+# search tracking id for dario.com
+google_tracking_id: UA-98131817-2
 
 webmaster_verifications:
-  google: jKNeXGKZ4e1CsWLJx1vciAX-AIUBkpglQ_LG5jZfQKc
+  google: DQehZZh2Dx2G-CEfmIed3hixR8DokYqvKiJwWcn5IiM
   bing: AC24F3DF5CA3A5221FB7E01EF2D9AAC4
   alexa:
   yandex:
