@@ -8,15 +8,15 @@ lang: fr_CA
 logo: img/chklst.png
 image: img/header.jpg
 # urls
-url: "https://dario.com"
+url: "https://dario.site"
 english_url: https://dario.com/
 french_url: https://dario.com/fr
-baseurl: "/fr"
+baseurl: ""
 # resources_url: 'resources'
 # services_url: 'services'
 
 # copyright text in footer
-copyright: dario.pw
+copyright: dario.site
 
 # email address
 email: contact@dario.com
